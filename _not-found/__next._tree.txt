@@ -1,3 +1,3 @@
 :HL["/aykatech-demo/_next/static/chunks/1asfe29njybma.css","style"]
-:HL["/aykatech-demo/_next/static/chunks/3ilyuj65ma2jz.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"K5w9NDFW-86k_u70IF6gv"}
+:HL["/aykatech-demo/_next/static/chunks/0j1k1h-3bgp6x.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"PQuZ9STxhbacyK8XVZ_Bb"}

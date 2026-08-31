@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,32544,e=>{"use strict";let t=`#version 300 es
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,54844,e=>{"use strict";let t=`#version 300 es
 precision mediump float;
 
 layout(location = 0) in vec4 a_position;
@@ -523,4 +523,4 @@ void main() {
 
   fragColor = vec4(color, opacity);
 }
-`;e.s([],70678),e.i(70678),e.s(["ShaderMount",0,o,"liquidMetalFragmentShader",0,h],32544)}]);
+`;e.s([],53815),e.i(53815),e.s(["ShaderMount",0,o,"liquidMetalFragmentShader",0,h],54844)}]);
